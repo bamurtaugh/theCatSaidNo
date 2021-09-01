@@ -21,3 +21,4 @@ function togglePaw() {
 
     pawToggled = !pawToggled;
 }
+
